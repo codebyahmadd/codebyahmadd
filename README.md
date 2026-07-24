@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Ahmad Yar Daha GitHub Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Ahmad Yar Daha</h1>
 
 <h3 align="center">
